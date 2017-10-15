@@ -1,0 +1,46 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+{\fonttbl\f0\fmodern\fcharset0 Courier-Bold;\f1\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl280\partightenfactor0
+
+\f0\b\fs24 \cf0 \expnd0\expndtw0\kerning0
+What happens when you initialize a repository? Why do you need to do it?
+\f1\b0 \
+It makes a new .git folder - a new repository.\
+Use cmd ls -a to see it.\
+There are no commits in the .git repository yet. \
+If you try to run git log, you\'92ll see an error msg.\
+git status will show you which files change.\
+\
+\
+
+\f0\b How is the staging area different from the working directory and the repository? What value do you think it offers?\
+
+\f1\b0 The staging area is between the working directory (just the folder you\'92re in with all the files) and the repository (the files you\'92re tracking with commits). You add files to the staging area that you want to save in the same commit eventually. 
+\f0\b \
+
+\f1\b0 \
+\
+
+\f0\b How can you use the staging area to make sure you have one commit per logical change?
+\f1\b0 \
+\
+
+\f0\b What are some situations when branches would be helpful in keeping your history\
+organized? How would branches help?
+\f1\b0 \
+\
+
+\f0\b How do the diagrams help you visualize the branch structure?
+\f1\b0 \
+\
+
+\f0\b What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+\f1\b0 \
+\
+
+\f0\b What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+\f1\b0 \
+}
