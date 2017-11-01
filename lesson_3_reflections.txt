@@ -29,4 +29,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Use a separate branch when you’re not ready to change the master. Also - let other review your work and collaborate before adding to master. 
+   Changing the master directly is good for little changes (e.g. spelling mistakes)
