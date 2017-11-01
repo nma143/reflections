@@ -4,17 +4,20 @@ When you want to use GitHub to manage your project.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    Might confuse things - especially if collaborating with others.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Forks - make a copy on GitHub of another repository (someone else’s) also on GitHub
+    Clone - copy of a repository. GitHub to Local, or local to local. To get a forked repository on your computer - first fork it so it’s on your gitHub, then clone to your computer.
+    Branch - within same repository
+
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    You can work offline with latest contributions on remote repository. 
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
